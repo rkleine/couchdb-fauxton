@@ -18,7 +18,7 @@ import sinon from 'sinon';
 const {restore, assert} = utils;
 FauxtonAPI.router = new FauxtonAPI.Router([]);
 
-describe('Sidebar actions', () => {
+describe.skip('Sidebar actions', () => {
 
   afterEach(() => {
     restore(FauxtonAPI.navigate);
