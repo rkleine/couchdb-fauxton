@@ -14,7 +14,7 @@ import PropTypes from 'prop-types';
 
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Range from 'react-range';
+import Range from 'react-range-fix';
 
 let pollIntervalId;
 
