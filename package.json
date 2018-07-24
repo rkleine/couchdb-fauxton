@@ -114,7 +114,7 @@
     "url-loader": "^0.5.7",
     "urls": "~0.0.3",
     "uuid": "^3.0.1",
-    "visualizeRevTree": "git+https://github.com/neojski/visualizeRevTree.git#gh-pages",
+    "visualize-rev-tree": "^0.0.1",
     "webpack": "~2.2.1",
     "webpack-dev-server": "~2.4.1",
     "whatwg-fetch": "~2.0.1"
